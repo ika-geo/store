@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/store/static/js/main.cdf22f4d.js",
+    "index.html": "/store/index.html",
+    "main.cdf22f4d.js.map": "/store/static/js/main.cdf22f4d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cdf22f4d.js"
+  ]
+}
